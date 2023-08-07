@@ -16,6 +16,9 @@ public class NuevoPro {
      */
     public static void main(String[] args) {
         System.out.println("hola banda!");
+        System.out.println("hola banda!");
+        
+        
     }
     
 }
